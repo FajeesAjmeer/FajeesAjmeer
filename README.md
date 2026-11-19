@@ -2,9 +2,13 @@
 
 ![Fajees Ajmeer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=160&section=header&text=Fajees%20Ajmeer&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Twin%20Auto%20Traders&descSize=16&descAlignY=60)
 
-[![LinkedIn](https://www.linkedin.com/in/fajees-ajmeer-008946372/)
-[![Website](https://twin-auto-traders.vercel.app)
-[![Email](mailto:twinautotraders@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajees-ajmeer-008946372/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://twin-auto-traders.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twinautotraders@gmail.com)
+
+</div>
+
+## About
 
 </div>
 
@@ -32,9 +36,21 @@ this profile once I'm enrolled.
 
 ## Technologies
 
-**Frontend:** React · TypeScript · Vite · Tailwind CSS · shadcn/ui
-**Backend and hosting:** Supabase · Vercel
-**Tools:** Git · GitHub
+**Frontend**
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- shadcn/ui
+
+**Backend / data**
+
+- Supabase
+
+**Hosting**
+
+- Vercel
 
 ## Activity
 
