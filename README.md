@@ -14,13 +14,19 @@ I'm the founder of Twin Auto Traders, a Japanese auto spare parts business in Sr
 I build practical software for the business while learning software development.
 I'm preparing to pursue a BSc (Hons) in Artificial Intelligence.
 
-**Current focus:** improving the Twin Auto Traders website and building its internal dashboard and billing system.
+
+## Currently
+
+- Improving the Twin Auto Traders website
+- Building a private dashboard and billing system for the business
+- Developing (NGO) Care Foundation platform (private)
+- Learning React, TypeScript and Supabase, and how to use AI tools effectively in development
 
 ## Projects
 
 | Project | Description | Status |
 |---|---|---|
-| [Twin Auto Traders website](https://github.com/FajeesAjmeer/twin-auto-traders) (https://twin-auto-traders.vercel.app) | Business website with product, about, contact and support pages, WhatsApp and email enquiry options, and a customer review system with admin approval | Live |
+| [Twin Auto Traders website]· [Live](https://twin-auto-traders.vercel.app) | Business website with product, about, contact and support pages, WhatsApp and email enquiry options, and a customer review system with admin approval | Live |
 | Twin Auto Traders Dashboard / billing system | Internal dashboard and billing system for managing the business | In development · Private repository |
 | Care Foundation platform | Transparency-focused (NGO) platform to connect donors with people who need medical help | In development · Private repository |
 
@@ -30,9 +36,9 @@ I'm preparing to pursue a BSc (Hons) in Artificial Intelligence.
 
 - React
 - TypeScript
-- Vite
-- HTML / CSS
+- PHP
 - JavaScript
+- HTML / CSS
 
 **Backend / data**
 
