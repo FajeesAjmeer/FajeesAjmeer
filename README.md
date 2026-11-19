@@ -22,7 +22,7 @@ I'm preparing to pursue a BSc (Hons) in Artificial Intelligence.
 
 | Project | Description | Status |
 |---|---|---|
-| [Twin Auto Traders website](https://github.com/FajeesAjmeer/twin-auto-traders | Business website with product, about, contact and support pages, WhatsApp and email enquiry options, and a customer review system with admin approval | Live |
+| [Twin Auto Traders website](https://github.com/FajeesAjmeer/twin-auto-traders) | Public website for the business | Live |
 | Twin Auto Traders Dashboard / billing system | Internal dashboard and billing system for managing the business | In development · Private repository |
 | Care Foundation platform | Transparency-focused (NGO) platform to connect donors with people who need medical help | In development · Private repository |
 
