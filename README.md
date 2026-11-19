@@ -6,9 +6,6 @@
 <a href="https://twin-auto-traders.vercel.app"><img src="ta-logo.png" height="28" alt=""><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twinautotraders@gmail.com)
 
-</div>
-
-## About
 
 </div>
 
