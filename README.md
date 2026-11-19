@@ -8,26 +8,25 @@
 
 </div>
 
-## 👋 About me
+## About me
 
 I'm the founder of Twin Auto Traders, a Japanese auto spare parts business in Sri Lanka.
 I build practical software for the business while learning software development.
 I'm preparing to pursue a BSc (Hons) in Artificial Intelligence.
 
-- 🏢 Founder of Twin Auto Traders
-- 🎓 Preparing to pursue a BSc (Hons) in Artificial Intelligence
-- 🌱 Currently learning: React, TypeScript and Supabase, and how to use AI tools effectively in development
-- 📍 Based in Sri Lanka
+- Founder of Twin Auto Traders
+- Preparing to pursue a BSc (Hons) in Artificial Intelligence
+- Currently learning: React, TypeScript and Python, and how to use AI tools effectively in development
 
-## 🔨 What I'm building
+## What I'm building
 
 | Project | Description | Status |
 |---|---|---|
-| [Twin Auto Traders website](https://github.com/FajeesAjmeer/twin-auto-traders) · [Live](https://twin-auto-traders.vercel.app) | Business website with product, about, contact and support pages, WhatsApp and email enquiry options, and a customer review system with admin approval | Live |
+| [Twin Auto Traders website](https://github.com/FajeesAjmeer/twin-auto-traders | Business website with product, about, contact and support pages, WhatsApp and email enquiry options, and a customer review system with admin approval | Live |
 | Twin Auto Traders Dashboard / billing system | Internal dashboard and billing system for managing the business | In development · Private repository |
 | Care Foundation platform | Transparency-focused (NGO) platform to connect donors with people who need medical help | In development · Private repository |
 
-## 🛠️ Technologies
+## Technologies
 
 **Frontend**
 
@@ -46,7 +45,7 @@ I'm preparing to pursue a BSc (Hons) in Artificial Intelligence.
 
 ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 Statistics
+## Statistics
 
 <div align="center">
 
